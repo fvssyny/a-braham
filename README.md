@@ -1,4 +1,4 @@
-## littlefs
+## littlefs for RT-Thread
 
 A little fail-safe filesystem designed for microcontrollers.
 
